@@ -1,9 +1,10 @@
 # 🐥 Ilya Chizh - @lilchizh
 
 ## 👋 Hi!
-I'm a software engineer interested in startup development (SAAS especially), using Lean Startup methodology and cloud technologies.  
-Currently, I'm working on a UX-enhancing service for SMB-s and freelance designers.     
+I'm a software engineer interested in startup development (SAAS especially).
 
+Currently working at [Algebra DEX](https://app.algebra.finance)
+ 
 You can find my portfolio at [lilchizh.github.io](https://lilchizh.github.io)  
 
 Contact me:  
@@ -14,12 +15,13 @@ E-mail: xlilchizhx@gmail.com
 Technologies I'm good at:
 - JavaScript / TypeScript
 - Angular 11 / Rx.js / Angular Material / Angular Fire
+- React / Redux / Gatsby
+- Web3 / Ethersproject
 - HTML / CSS / SASS / BEM
 - Firebase (FireStore, FireAuth, FireStorage) / Google Cloud Platform
 
 Have a solid grasp at:
 - Canvas API / D3.js
-- React / Redux / Gatsby
 - Node.js
 - UI / UX
 - Figma / XD Design
